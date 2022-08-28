@@ -1,0 +1,37 @@
+{
+  "Users": [
+    {
+      "id" :1,
+      "firstName": "viral",
+      "lastName": "Kol",
+      "email": "sdsd@gmail.com",
+      "mobile" : "8378478374",
+      "salary" : "4387547385"
+    },
+    {
+      "id" :2,
+      "firstName": "giral",
+      "lastName": "Kol",
+      "email": "sfd@gmail.com",
+      "mobile" : "8378478374",
+      "salary" : "4387547385"
+    },
+    {
+      "id" :3,
+      "firstName": "firal",
+      "lastName": "Kol",
+      "email": "sgd@gmail.com",
+      "mobile" : "8378478374",
+      "salary" : "4387547385"
+    },
+    {
+      "id" :4,
+      "firstName": "vidsal",
+      "lastName": "Kol",
+      "email": "hhdsd@gmail.com",
+      "mobile" : "8378478374",
+      "salary" : "4387547385"
+    }
+
+  ]
+}
